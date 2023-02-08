@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(163, 8, 8);
+    background-image: url(/images/woodbg.jfif);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.header {
+    font-size: 4rem;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.player {
+    padding: 20px;
+    
+}
+
+#james {
+    width: 25%;
+    height: 25%;
+    margin: 10px;
+    border-radius: 10px;;
+}
+
+.james-pic {
+    margin: 20px;
+}
+
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+  background-color: #ffa9a9;
+  
+}
+
+.sub-header {
+    font-size: 1.5rem;;
+}
